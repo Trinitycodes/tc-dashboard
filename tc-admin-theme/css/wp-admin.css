@@ -1,0 +1,140 @@
+/*------------------------------------------------------------------------------
+    Ajust the dashicon div
+------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------
+    Ajust the Admin Bar
+------------------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------------------
+    Admin Login Page
+------------------------------------------------------------------------------*/
+
+body.login {
+
+    background: #ffffff;
+
+}
+
+#login {
+
+    width: 98%;
+    max-width: 950px;
+
+}
+
+#login h1 a {
+
+    background-image: none;
+    -webkit-background-size: 300px;
+    background-size: 300px;
+    background-position: center top;
+    background-repeat: no-repeat;
+    color: #333;
+    height: 55px;
+    line-height: 1.8em;
+    margin: 0 auto 25px;
+    padding: 0;
+    text-decoration: none;
+    width: 300px;
+    text-indent: 0px;
+    outline: 0;
+    overflow: hidden;
+    display: block;
+}
+
+.login .message {
+
+    border-left: 4px solid #2c3e50;
+
+}
+
+.login form {
+
+    -webkit-box-shadow: 0 0px 0px rgba(0,0,0,.13);
+    box-shadow: 0 0px 0px rgba(0,0,0,.13);
+    padding: 26px 0px 46px;
+}
+
+.login label {
+
+    font-size: 25px;
+    color: #333;
+}
+
+.login form .input, .login input[type=text] {
+
+    font-size: 20px;
+    padding: 20px;
+
+}
+
+.wp-core-ui .button.button-large {
+
+    border: none;
+    -webkit-box-shadow: 0 0px 0px rgba(0,0,0,.13);
+    box-shadow: 0 0px 0px rgba(0,0,0,.13);
+    height: 50px;
+    line-height: 20px;
+    padding: 15px 20px;
+
+}
+
+.wp-core-ui .button-primary {
+
+}
+
+
+/*------------------------------------------------------------------------------
+
+
+Hello, this is the main WordPress admin CSS file.
+All the important stuff is in here.
+
+
+TABLE OF CONTENTS:
+------------------
+ 1.0 - Text Elements
+ 2.0 - Forms
+ 3.0 - Actions
+ 4.0 - Notifications
+ 5.0 - TinyMCE
+ 6.0 - Admin Header
+	6.1 - Screen Options Tabs
+	6.2 - Help Menu
+ 7.0 - Main Navigation
+ 8.0 - Layout Blocks
+ 9.0 - Dashboard
+10.0 - List Posts
+	10.1 - Inline Editing
+11.0 - Write/Edit Post Screen
+	11.1 - Custom Fields
+	11.2 - Post Revisions
+	11.3 - Featured Images
+12.0 - Categories
+13.0 - Tags
+14.0 - Media Screen
+	14.1 - Media Library
+	14.2 - Image Editor
+15.0 - Comments Screen
+16.0 - Themes
+	16.1 - Custom Header
+	16.2 - Custom Background
+	16.3 - Tabbed Admin Screen Interface
+17.0 - Plugins
+18.0 - Users
+19.0 - Tools
+20.0 - Settings
+21.0 - Admin Footer
+22.0 - About Pages
+23.0 - Full Overlay w/ Sidebar
+24.0 - Customize Loader
+25.0 - Misc
+
+------------------------------------------------------------------------*/
+
+
+
+
