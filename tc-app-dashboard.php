@@ -72,7 +72,7 @@ class TC_App_Dashboard
 		$wp_admin_bar->remove_menu( 'view-site' );
 		$wp_admin_bar->remove_menu( 'site-name' );
 
-		$title = '<img src="' . site_url() . '/wp-content/plugins/tc-app-dashboard/tc-admin-theme/images/logo@2x.png" width="25px" height="25px" alt="Trinity Codes" />';
+		$title = '<img src="'. plugins_url( 'tc-admin-theme/images/logo@2x.png', __FILE__ ) . '" alt="Trinity Codes" />';
 		$wp_admin_bar->add_menu( array(
 				'id' => 'tc-logo',
 				'title' => $title,
