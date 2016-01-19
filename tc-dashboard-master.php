@@ -64,7 +64,6 @@ class TC_App_Dashboard
 
 		global $wp_admin_bar;
 
-		$wp_admin_bar->remove_menu( 'updates' );
 		$wp_admin_bar->remove_menu( 'comments' );
 		$wp_admin_bar->remove_menu( 'wporg' );
 		$wp_admin_bar->remove_menu( 'wp-logo' );
